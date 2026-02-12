@@ -46,7 +46,7 @@ online or offline event.
 
 ## Reporting
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported
-to the project maintainers
+to the project maintainers via our community Discord server at https://discord.gg/JBF2ySrh2W.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
